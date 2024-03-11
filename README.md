@@ -1,5 +1,6 @@
 # PowerPointFormatting
 
+* Videos below in one play list https://www.youtube.com/watch?v=CY1Y367KEko&list=PLXU6h3ZvD8zuq3Sm1UdqZvQx-nKwk1Jj5
 * Storytelling in PowerPoint https://www.youtube.com/watch?v=CY1Y367KEko
   * SCR/SCQA framework
   * Situation (What is the situation and why is this important?)
