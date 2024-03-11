@@ -33,4 +33,5 @@
   * subtitle slides
   * framework slides
   * visual slides
+* Gopen suggestions on delivering a presentation https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_41__on_teaching.pdf
 
