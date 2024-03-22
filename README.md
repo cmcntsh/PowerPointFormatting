@@ -39,4 +39,5 @@
 * https://www.slidestart.com/
 * Color palettes https://coolors.co/
 * Color theory https://www.youtube.com/watch?v=yiYOhLgBBfk
+* Designing for color blind https://www.tableau.com/blog/examining-data-viz-rules-dont-use-red-green-together
 
