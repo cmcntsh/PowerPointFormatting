@@ -35,4 +35,6 @@
   * framework slides
   * visual slides
 * Gopen suggestions on delivering a presentation https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_41__on_teaching.pdf
+* How to build PowerPoint slides like a graphic designer https://www.youtube.com/watch?v=xxw5DYTVZSc
+* https://www.slidestart.com/
 
